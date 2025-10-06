@@ -1,2 +1,0 @@
-# Coc-hun
-Universal script
